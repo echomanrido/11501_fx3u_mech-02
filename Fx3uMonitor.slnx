@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Fx3uMonitorApp.Tests/Fx3uMonitorApp.Tests.csproj" />
+  <Project Path="Fx3uMonitorApp/Fx3uMonitorApp.csproj" />
+</Solution>
